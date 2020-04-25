@@ -5,6 +5,7 @@ The [ScanNetDataset](https://github.com/ScanNet/ScanNet)ScanNet is an RGB-D vide
 
 We complete the incomplete depth image and generate estimating normal image and boundary image from rgb image with this method. Our result NyuDataset contain 500k+ pair sample. It features:
 
+  - 640*480 resolution.
   - rgb image.
   - Matching origin incomplete rawDepth image.
   - Matching complete depth image.
