@@ -11,5 +11,5 @@ We complete the incomplete depth image and generate estimating normal image and 
   - Matching estimating normal image from rgb image.
   - Matching estimating boundary image from rgb image.
   
- ## Warning: if you want to use this dataset, be sure to apply for the right to use it.
+ ## Warning: if you want to use this dataset, be sure to apply for the right to use it( fill out an [agreement](kaldir.vc.in.tum.de/scannet/ScanNet_TOS.pdf) to the ScanNet Terms of Use and send it to scannet@googlegroups.com).
 
