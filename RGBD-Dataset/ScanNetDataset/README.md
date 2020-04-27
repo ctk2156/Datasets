@@ -1,4 +1,4 @@
-# Datasets
+# ScanNet Datasets
 RGB-D and Ambient Occlusion Datasets  
 
 The [ScanNetDataset](https://github.com/ScanNet/ScanNet)ScanNet is an RGB-D video dataset containing 2.5 million views in more than 1500 scans, annotated with 3D camera poses, surface reconstructions, and instance-level semantic segmentations.
