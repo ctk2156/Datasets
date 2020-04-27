@@ -8,4 +8,10 @@ We complete the incomplete depth image and generate estimating normal image and 
 - Matching origin incomplete rawDepth image.  
 - Matching complete depth image.  
 - Matching estimating normal image from rgb image.  
-- Matching estimating boundary image from rgb image.
+- Matching estimating boundary image from rgb image.  
+
+BaiduNetDisk Download [Link](https://pan.baidu.com/s/1bMtoIw7hQLkkW8X7gn-nxw)  
+ 
+Extrack Code：c89j
+
+
